@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hardik Sharma - Portfolio Website
 
 A modern, responsive portfolio website showcasing Hardik Sharma's skills, projects, and achievements.
@@ -127,3 +128,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ for showcasing professional skills and achievements** 
+=======
+# Portfolio
+This is my Portfolio
+>>>>>>> 98872eb5f2b2c694bff6205ce540b964cd111143
