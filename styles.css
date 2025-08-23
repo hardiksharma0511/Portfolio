@@ -444,13 +444,43 @@ section {
     object-fit: contain;
 }
 
-.leetcode-logo {
-    width: 56px;
-    height: 56px;
+.school-logo-bg {
+    background: white;
+    border-radius: 15px;
+    padding: 1rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1.5rem;
+}
+
+.school-logo {
+    width: 70px;
+    height: 70px;
     object-fit: contain;
-    margin-right: 12px;
+}
+
+.school-card {
+    margin-top: 2rem;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+}
+
+.percentage {
+    font-weight: 600;
+    color: #27ae60 !important;
+    font-size: 1.1rem;
+}
+
+.leetcode-logo {
+    width: 3.5rem;
+    height: 3.5rem;
+    object-fit: contain;
+    margin-right: 8px;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: text-bottom;
+    filter: hue-rotate(200deg) saturate(1.5) brightness(1.2);
 }
 
 .education-info h3 {
